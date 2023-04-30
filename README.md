@@ -15,4 +15,8 @@
 
 ## Día 4 - Condicionales
 - [Contenido](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/dia_04_Condicionales/dia_04_Condicionales.md)
--
+- [Ejercicios resueltos](https://github.com/criislopeez/ejercicios-javascript/tree/main/dia4_Condicionales)
+
+## Día 5 - Arreglos
+- [Contenido](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/dia_05_Arreglos/dia_05_arreglos.md)
+- [Ejercicios resueltos](https://github.com/criislopeez/ejercicios-javascript/tree/main/dia5_Arreglos)
