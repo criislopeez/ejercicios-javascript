@@ -77,7 +77,8 @@ if (calculoAños > 18) {
 
 // 14. Escriba un script que solicite por prompt al usuario que ingrese el número de años. Calcular el número de segundos que puede vivir una persona. Supongamos que alguien vive solo cien años
 let añosVida = new Date(prompt("Introduce el número de años que tienes"));
-let segundos = añosVida.getTime() - 3153600000;
+let conversion = Number(añosVida)
+let segundos = conversion.getTime() - 3153600000;
 console.log(`Te queda por vivir ${segundos}`);
 
 // 15. Cree un formato de hora legible por humanos usando el objeto Date.
