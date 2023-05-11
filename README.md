@@ -20,3 +20,7 @@
 ## Día 5 - Arreglos
 - [Contenido](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/dia_05_Arreglos/dia_05_arreglos.md)
 - [Ejercicios resueltos](https://github.com/criislopeez/ejercicios-javascript/tree/main/dia5_Arreglos)
+
+## Día 6 - Bucles
+- [Contenido](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/dia_06_Bucles/dia_06_bucles.md)
+- [Ejercicios resueltos](https://github.com/criislopeez/ejercicios-javascript/tree/main/dia6_Bucles)
