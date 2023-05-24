@@ -24,7 +24,7 @@ for (let i = 0; i < numero; i++) {
 }
 console.log(id)
 
-// !2. Escribe un script que genere un número hexadecimal aleatorio.
+// 2. Escribe un script que genere un número hexadecimal aleatorio.
 let numHexadecimales = "0123456789abcdef"
 let numeroHexa = ""
 
@@ -52,7 +52,7 @@ for (let i = 0; i < 3; i++){
 }
 console.log(`rgb(${primerNumero},${segundoNumero},${tercerNumero})`);
 
-// !4. Usando el array countries anterior, crea un array como el siguiente.
+// 4. Usando el array countries anterior, crea un array como el siguiente.
 let countriesUpperCase = [];
 
 for (let i = 0; i < countries.length; i++){
@@ -69,7 +69,7 @@ for (let i = 0; i < countries.length; i++){
 
 console.log(longitudPais);
 
-// !6. Utiliza el array countries para crear la siguiente array de arrays
+// 6. Utiliza el array countries para crear la siguiente array de arrays
 let arrayDeArrays = [];
 
 for (let i = 0; i < countries.length; i++){
@@ -80,7 +80,7 @@ for (let i = 0; i < countries.length; i++){
 }
 console.log(arrayDeArrays);
 
-// !7. En el array countries anterior, verifica si hay un país que contenga la palabra 'land'. Si hay países que contienen 'land', imprimelo cono array. Si no hay ningún país que contenga la palabra'land', imprima 'Todos estos países no tienen la palabra land'.
+// 7. En el array countries anterior, verifica si hay un país que contenga la palabra 'land'. Si hay países que contienen 'land', imprimelo cono array. Si no hay ningún país que contenga la palabra'land', imprima 'Todos estos países no tienen la palabra land'.
 let arrayPalabra = [];
 
 for (let i = 0; i < countries.length; i++){
@@ -94,7 +94,7 @@ if (arrayPalabra.length > 0) {
   console.log("Todos estos países no tienen la palabra land")
 }
 
-// !8. En el array countries anterior, verifica si hay un país que termina con una subcadena (substring) 'ia'. Si hay países que terminan con 'ia', imprimelo como un array. Si no hay ningún país que contenga la palabra 'ia', imprime 'Estos países no terminan con ia'.
+// 8. En el array countries anterior, verifica si hay un país que termina con una subcadena (substring) 'ia'. Si hay países que terminan con 'ia', imprimelo como un array. Si no hay ningún país que contenga la palabra 'ia', imprime 'Estos países no terminan con ia'.
 let countriesConIa = [];
 
 for (let i = 0; i < countries.length; i++){
@@ -108,7 +108,7 @@ if (countriesConIa.length > 0) {
   console.log("Estos países no terminan con ia");
 }
 
-// !9. Usando el array countries anterior, encuentre el país que contiene la mayor cantidad de caracteres.
+// 9. Usando el array countries anterior, encuentre el país que contiene la mayor cantidad de caracteres.
 let longitudCountry = countries[0] // primer pais del arreglo y se compara con esta longitud
 
 for (let i = 0; i < countries.length; i++){
@@ -177,7 +177,7 @@ for (const webTech of webTechs) {
   console.log(webTech)
 }
 
-// !15. Este es un array de frutas, ['banana', 'orange', 'mango', 'lemon'] invierte el orden usando un bucle sin usar el método reverse().
+// 15. Este es un array de frutas, ['banana', 'orange', 'mango', 'lemon'] invierte el orden usando un bucle sin usar el método reverse().
 let frutas = ["Banana", "Orange", "Mango", "Lemon"];
 let frutasInvertidas = []
 
