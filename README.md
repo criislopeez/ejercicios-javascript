@@ -24,3 +24,7 @@
 ## Día 6 - Bucles
 - [Contenido](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/dia_06_Bucles/dia_06_bucles.md)
 - [Ejercicios resueltos](https://github.com/criislopeez/ejercicios-javascript/tree/main/dia6_Bucles)
+
+## Día 7 - Funciones
+- [Contenido](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/Spanish/dia_07_Funciones/dia_07_funciones.md)
+- [Ejercicios resueltos](https://github.com/criislopeez/ejercicios-javascript/tree/main/dia7_Funciones)
